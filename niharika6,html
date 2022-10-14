@@ -1,0 +1,35 @@
+<!doctype = html>
+<html>
+<h1>my favourite food</h1>
+<ul>
+<li>biscuites</li>
+<li>choclates</li>
+<li>cakes</li>
+<li>ice cream</li>
+<li>biryani</li>
+</ul>
+<h2>todays things</h2>
+<ol>
+<li>wake up<l/i>
+<li>fresh up</li>
+<li>class</li>
+<li>break fast</li>
+<li>lunch</li>
+</ol>
+<h3>favourite places</h3>
+<ul>
+<li>wonderla</li>
+<li>temples</li>
+<li>ramoji filim city</li>
+<li>nagarjuna sagar</li>
+<li>NTR park<li/>
+</ul>
+<h4>favourite video games or movies</h4>
+<ol>
+<li>K.G.F</li>
+<li>harry potter</li>
+<li>sakini dakini</li>
+<li>dora</li>
+<li>sye</li>
+</ol>
+</html>
